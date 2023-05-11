@@ -1,4 +1,4 @@
-//Aluno: Sebasti�o Oliveira Silva Neto - 2011478
+//Aluno:Thiago Silva Soares - 2011250
 //Projeto: NaDespensa
 ///fun��es de busca sequencial e bin�ria implementadas:
 
